@@ -9,6 +9,8 @@
 
 - 📫 How to reach me: **evasq710@hotmail.com**
 
+- :page_with_curl: Here you can check out my resume: [CV](https://evasq710.github.io/CV/)
+
 - ⚡ Fun fact: **I'm a musician, kind of** :guitar:
 
 <h3 align="left">Connect with me:</h3>
