@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elías</h1>
 <h3 align="center">A passionate science and systems engineering student at <a href="https://www.usac.edu.gt">Universidad de San Carlos de Guatemala</a></h3>
 
-- 🔭 I’m currently working on **college projects**
+- 🔭 I’m currently working on **COBOL projects**
 
 - 🌱 I’m currently learning **Golang**
 
@@ -12,6 +12,8 @@
 - :page_with_curl: Here you can check out my resume: [CV](https://evasq710.github.io/CV/)
 
 - ⚡ Fun fact: **I'm a musician, kind of** :guitar:
+
+> The code speaks for itself. GM Hans Niemann
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,11 +43,7 @@
 <h3 align="left">Github stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evasq710&show_icons=true&theme=dark&locale=en&layout=compact" alt="evasq710" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evasq710&theme=dark" alt="evasq710" /></p>
-
 <br/>
-
-> The code speaks for itself. GM Hans Niemann
 
 <!--
 - 🔭 I’m currently working on ...
