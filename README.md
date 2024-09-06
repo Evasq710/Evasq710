@@ -11,9 +11,7 @@
 
 - :page_with_curl: Here you can check out my resume: [CV](https://evasq710.github.io/CV/)
 
-- ⚡ Fun fact: **I'm a musician, kind of** :guitar:
-
-> The code speaks for itself. GM Hans Niemann
+- ⚡ Fun fact: I'm a **musician**, kind of :guitar:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +42,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evasq710&show_icons=true&theme=dark&locale=en&layout=compact" alt="evasq710" /></p>
 
 <br/>
+
+> The code speaks for itself. GM Hans Niemann
 
 <!--
 - 🔭 I’m currently working on ...
