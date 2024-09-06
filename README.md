@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **COBOL projects**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Cloud Computing** ☁️
 
 - 💬 Ask me about anything you want to know
 
