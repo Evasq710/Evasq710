@@ -7,7 +7,7 @@
 
 - 💬 Ask me about anything you want to know
 
-- 📫 How to reach me:**[My Linkedin](https://linkedin.com/in/evasq710)**
+- 📫 How to reach me: **[My Linkedin](https://linkedin.com/in/evasq710)**
 
 - :page_with_curl: Here you can check out my resume: [CV](https://evasq710.github.io/CV/)
 
