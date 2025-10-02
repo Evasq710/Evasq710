@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Elías</h1>
+<h1 align="center">Hi 👋, I'm Elías Vasquez</h1>
 <h3 align="center">A passionate science and systems engineering student at <a href="https://www.usac.edu.gt">Universidad de San Carlos de Guatemala</a></h3>
 
-- 🔭 I’m currently working on **COBOL projects**, you won't see much of it here 🙂
+- 🔭 I’m currently working on **COBOL projects**. You won't see much of it here 🙂
 
 - 🌱 I’m currently learning **Cloud Computing**
 
@@ -9,7 +9,9 @@
 
 - 📫 How to reach me: **[My Linkedin](https://linkedin.com/in/evasq710)**
 
+<!--
 - :page_with_curl: Here you can check out my resume: [CV](https://evasq710.github.io/CV/)
+-->
 
 - ⚡ Fun fact: I'm a **musician**, kind of :guitar:
 
